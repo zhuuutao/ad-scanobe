@@ -1,5 +1,6 @@
 ad-scanobe: Local Network Adobe Monitor
 ad-scanobe is a specialized macOS monitoring tool designed to detect and log Adobe-related network activity across a local hotspot (bridge100). It leverages the power of tcpdump to provide real-time DNS sniffing with customizable keyword filtering.
+<img width="900" height="1002" alt="2c5b319bbe9af5038cf891a149765acf" src="https://github.com/user-attachments/assets/0724c07e-e69b-4e20-a134-73c6d682e487" />
 
 🚀 Quick Start (Running with Permissions)
 Since this app accesses low-level network interfaces (bridge100), it cannot be run by simply clicking the .app icon. You must execute the internal binary via Terminal with sudo privileges.
